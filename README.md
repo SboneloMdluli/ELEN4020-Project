@@ -1,9 +1,5 @@
 # ELEN4020-Transposition of Big Data
 
-## Link to repo
-git@github.com:SboneloMdluli/ELEN4020-Project.git
-https://github.com/SboneloMdluli/ELEN4020-Project
-```
 The program was run using hornet in ubuntu 18.02
 ```
 
